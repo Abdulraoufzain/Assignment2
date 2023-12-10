@@ -1,0 +1,14 @@
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\bin\Debug\net7.0\Management.deps.json
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\bin\Debug\net7.0\Management.runtimeconfig.json
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\bin\Debug\net7.0\Management.dll
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\bin\Debug\net7.0\Management.pdb
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.csproj.AssemblyReference.cache
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.AssemblyInfoInputs.cache
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.AssemblyInfo.cs
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.csproj.CoreCompileInputs.cache
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.dll
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\refint\Management.dll
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.pdb
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\Management.genruntimeconfig.cache
+C:\Users\abdon\OneDrive\المستندات\Homwork2\Management\obj\Debug\net7.0\ref\Management.dll
